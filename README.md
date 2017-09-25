@@ -1,2 +1,4 @@
 # mtm6330-week2
-my first github project
+My first Github Project
+
+Iman Ibrahim section 310
